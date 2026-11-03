@@ -48,13 +48,13 @@ I am a first-year PhD candidate at the HKUST NLP Group and a Ph.D. candidate in 
 
 2. **Junteng Liu**, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, and Junxian He. “On the Perception Bottleneck of VLMs for Chart Understanding.” *arXiv*, 2025. First author.
 
-3. **Junteng Liu**, Shiqi Chen, Yu Cheng, and Junxian He. “On the Universal Truthfulness Hyperplane Inside LLMs.” *EMNLP 2024*. First author.
+3. **Junteng Liu**, Shiqi Chen, Yu Cheng, and Junxian He. “On the Universal Truthfulness Hyperplane Inside LLMs.” *Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)*. First author.
 
-4. Shiqi Chen, Miao Xiong, **Junteng Liu**, Zhengxuan Wu, Teng Xiao, Siyang Gao, and Junxian He. “In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation.” *ICML 2024*.
+4. Shiqi Chen, Miao Xiong, **Junteng Liu**, Zhengxuan Wu, Teng Xiao, Siyang Gao, and Junxian He. “In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation.” *International Conference on Machine Learning (ICML 2024)*.
 
-5. Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, **Junteng Liu**, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, and Junxian He. “C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models.” *NeurIPS 2023*.
+5. Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, **Junteng Liu**, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, and Junxian He. “C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models.” *Neural Information Processing Systems (NeurIPS 2023)*.
 
-6. Jinghan Zhang, Shiqi Chen, **Junteng Liu**, and Junxian He. “Composing Parameter-Efficient Modules with Arithmetic Operations.” *NeurIPS 2023*.
+6. Jinghan Zhang, Shiqi Chen, **Junteng Liu**, and Junxian He. “Composing Parameter-Efficient Modules with Arithmetic Operations.” *Neural Information Processing Systems (NeurIPS 2023)*.
 
 ## Contact
 
